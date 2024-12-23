@@ -7,6 +7,8 @@
 
 ### Tecnologias que eu uso
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goesrafaela&layout=compact)
+
 <div style="display: inline_block"></br>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
